@@ -1,0 +1,248 @@
+{
+  "dataset_metadata": {
+    "total_participants": 24,
+    "hil_operator_profiles": 1,
+    "calibrated_ddm_profiles": 23,
+    "total_trials": 576,
+    "trials_per_condition": 144
+  },
+  "conditions_summary": {
+    "C0": {
+      "tce_trial_mean": 0.2744444444444445,
+      "tce_trial_std": 0.283991967230479,
+      "tce_block_mean": 0.10404583333333334,
+      "tce_block_std": 0.07134928157931275,
+      "rt_mean_s": 2.0317708333333337,
+      "rt_std_s": 0.6840422912410413,
+      "arr_pct": 95.0,
+      "fpr_pct": 33.33333333333333,
+      "fpir_pct": 5.0,
+      "throughput_mean_s": 4.431770833333333,
+      "throughput_std_s": 0.6840422912410414,
+      "tps_hri_mean": 76.93958333333333,
+      "tps_hri_std": 5.317986280511652,
+      "ti_hrc_safety_mean": 4.18875,
+      "ti_hrc_dependability_mean": 4.468333333333334,
+      "nasa_tlx_composite_mean": 44.32916666666667,
+      "nasa_tlx_composite_std": 6.090472899941968,
+      "nasa_tlx_mental_mean": 48.22625,
+      "nasa_tlx_temporal_mean": 41.87916666666667,
+      "nasa_tlx_frustration_mean": 48.70250000000001,
+      "fluency_mean": 3.8983333333333334,
+      "fluency_std": 0.4602141908386521
+    },
+    "C1": {
+      "tce_trial_mean": 0.2015277777777778,
+      "tce_trial_std": 0.2282383720318616,
+      "tce_block_mean": 0.19974166666666662,
+      "tce_block_std": 0.10185833690524036,
+      "rt_mean_s": 1.6271666666666667,
+      "rt_std_s": 0.259504449750981,
+      "arr_pct": 93.33333333333333,
+      "fpr_pct": 87.5,
+      "fpir_pct": 6.666666666666667,
+      "throughput_mean_s": 4.2605,
+      "throughput_std_s": 0.5694359004798035,
+      "tps_hri_mean": 74.69916666666667,
+      "tps_hri_std": 5.006457496740251,
+      "ti_hrc_safety_mean": 5.426666666666667,
+      "ti_hrc_dependability_mean": 5.526666666666666,
+      "nasa_tlx_composite_mean": 28.138333333333332,
+      "nasa_tlx_composite_std": 6.038845028261806,
+      "nasa_tlx_mental_mean": 26.741249999999997,
+      "nasa_tlx_temporal_mean": 30.205833333333334,
+      "nasa_tlx_frustration_mean": 25.061666666666667,
+      "fluency_mean": 5.3175,
+      "fluency_std": 0.5455451999764926
+    },
+    "C2": {
+      "tce_trial_mean": 0.2070833333333333,
+      "tce_trial_std": 0.21981516393030373,
+      "tce_block_mean": 0.11907083333333333,
+      "tce_block_std": 0.04746601053171734,
+      "rt_mean_s": 1.075972222222222,
+      "rt_std_s": 0.1937572536677617,
+      "arr_pct": 96.66666666666667,
+      "fpr_pct": 91.66666666666666,
+      "fpir_pct": 3.3333333333333335,
+      "throughput_mean_s": 3.475972222222222,
+      "throughput_std_s": 0.1937572536677617,
+      "tps_hri_mean": 87.36708333333333,
+      "tps_hri_std": 3.37224280827627,
+      "ti_hrc_safety_mean": 5.766249999999999,
+      "ti_hrc_dependability_mean": 6.0616666666666665,
+      "nasa_tlx_composite_mean": 43.02041666666667,
+      "nasa_tlx_composite_std": 7.581894611889372,
+      "nasa_tlx_mental_mean": 49.66791666666666,
+      "nasa_tlx_temporal_mean": 47.122916666666676,
+      "nasa_tlx_frustration_mean": 38.78541666666666,
+      "fluency_mean": 5.28375,
+      "fluency_std": 0.5143405444374124
+    },
+    "C3": {
+      "tce_trial_mean": 0.17708333333333334,
+      "tce_trial_std": 0.20734038430811053,
+      "tce_block_mean": 0.05282916666666667,
+      "tce_block_std": 0.02831116662727097,
+      "rt_mean_s": 0.9409236111111111,
+      "rt_std_s": 0.18813356659346142,
+      "arr_pct": 98.33333333333333,
+      "fpr_pct": 100.0,
+      "fpir_pct": 1.6666666666666667,
+      "throughput_mean_s": 3.807590277777778,
+      "throughput_std_s": 0.7307417575781843,
+      "tps_hri_mean": 94.68291666666669,
+      "tps_hri_std": 2.869081778831546,
+      "ti_hrc_safety_mean": 6.499583333333334,
+      "ti_hrc_dependability_mean": 6.6125,
+      "nasa_tlx_composite_mean": 27.28125,
+      "nasa_tlx_composite_std": 5.019567201592618,
+      "nasa_tlx_mental_mean": 25.972916666666663,
+      "nasa_tlx_temporal_mean": 26.168333333333337,
+      "nasa_tlx_frustration_mean": 22.211250000000003,
+      "fluency_mean": 6.583333333333333,
+      "fluency_std": 0.2875029930531033
+    }
+  },
+  "anova_tce_trial": {
+    "df_num": 1,
+    "df_den": 92,
+    "factor_a_kinematics": {
+      "F": 13.345728823768756,
+      "p_value": 0.00043038134133289275,
+      "eta_p_sq": 0.12668504905495145
+    },
+    "factor_b_ehmi": {
+      "F": 10.619615654903216,
+      "p_value": 0.0015686747792217433,
+      "eta_p_sq": 0.10348524097591283
+    },
+    "interaction_axb": {
+      "F": 2.320720501751607,
+      "p_value": 0.13109100360493742,
+      "eta_p_sq": 0.024604567155617835
+    }
+  },
+  "anova_tce_block": {
+    "df_num": 1,
+    "df_den": 92,
+    "factor_a_kinematics": {
+      "F": 1.1242288059797172,
+      "p_value": 0.2917853950852965,
+      "eta_p_sq": 0.01207235560921529
+    },
+    "factor_b_ehmi": {
+      "F": 22.54075720932742,
+      "p_value": 7.5293572797772595e-06,
+      "eta_p_sq": 0.19679245849696422
+    }
+  },
+  "anova_workload": {
+    "df_num": 3,
+    "df_den": 92,
+    "F": 52.45274440066078,
+    "p_value": 7.420068386473339e-20,
+    "eta_p_sq": 0.6310528879731065
+  },
+  "post_hoc_pairwise": {
+    "bonferroni_threshold": 0.008333333333333333,
+    "comparisons": {
+      "C0_vs_C1": {
+        "tce_trial": {
+          "t_stat": 2.999965927820927,
+          "p_raw": 0.006390842503503181,
+          "p_bonferroni": 0.038345055021019085,
+          "cohen_d": 0.6123654807413651,
+          "significant": true
+        },
+        "nasa_tlx": {
+          "t_stat": 15.663159411801157,
+          "p_raw": 9.210646453464314e-14,
+          "p_bonferroni": 5.526387872078588e-13,
+          "cohen_d": 3.1972290265653944,
+          "significant": true
+        }
+      },
+      "C0_vs_C2": {
+        "tce_trial": {
+          "t_stat": 3.245968591722661,
+          "p_raw": 0.0035641174703265875,
+          "p_bonferroni": 0.021384704821959526,
+          "cohen_d": 0.6625805642350846,
+          "significant": true
+        },
+        "nasa_tlx": {
+          "t_stat": 0.9042632949854045,
+          "p_raw": 0.37523041686307124,
+          "p_bonferroni": 1.0,
+          "cohen_d": 0.18458197215350564,
+          "significant": false
+        }
+      },
+      "C0_vs_C3": {
+        "tce_trial": {
+          "t_stat": 6.696396637871392,
+          "p_raw": 7.859485992889043e-07,
+          "p_bonferroni": 4.715691595733425e-06,
+          "cohen_d": 1.366896239839478,
+          "significant": true
+        },
+        "nasa_tlx": {
+          "t_stat": 13.468492573954354,
+          "p_raw": 2.135176838768674e-12,
+          "p_bonferroni": 1.2811061032612046e-11,
+          "cohen_d": 2.7492445342210496,
+          "significant": true
+        }
+      },
+      "C1_vs_C2": {
+        "tce_trial": {
+          "t_stat": -0.28999148950507886,
+          "p_raw": 0.774421116296072,
+          "p_bonferroni": 1.0,
+          "cohen_d": -0.05919426491975885,
+          "significant": false
+        },
+        "nasa_tlx": {
+          "t_stat": -9.9214823692113,
+          "p_raw": 8.868704346236731e-10,
+          "p_bonferroni": 5.321222607742038e-09,
+          "cohen_d": -2.025214108048935,
+          "significant": true
+        }
+      },
+      "C1_vs_C3": {
+        "tce_trial": {
+          "t_stat": 1.2359397921465753,
+          "p_raw": 0.22895550297784176,
+          "p_bonferroni": 1.0,
+          "cohen_d": 0.2522851536300508,
+          "significant": false
+        },
+        "nasa_tlx": {
+          "t_stat": 0.7324592810661097,
+          "p_raw": 0.47128729698683114,
+          "p_bonferroni": 1.0,
+          "cohen_d": 0.1495126246648147,
+          "significant": false
+        }
+      },
+      "C2_vs_C3": {
+        "tce_trial": {
+          "t_stat": 1.993944237590753,
+          "p_raw": 0.05814616071721867,
+          "p_bonferroni": 0.348876964303312,
+          "cohen_d": 0.4070121631383478,
+          "significant": false
+        },
+        "nasa_tlx": {
+          "t_stat": 11.503341805449761,
+          "p_raw": 5.113492190606892e-11,
+          "p_bonferroni": 3.068095314364135e-10,
+          "cohen_d": 2.3481098133481764,
+          "significant": true
+        }
+      }
+    }
+  }
+}
