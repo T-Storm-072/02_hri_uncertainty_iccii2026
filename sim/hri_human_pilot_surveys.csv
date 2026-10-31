@@ -1,0 +1,5 @@
+participant_id,block_id,condition,tps_hri,accuracy_pct,tce_block,ti_hrc_safety,nasa_tlx_mental,fluency
+P-01,1,C0,78.0,83.3,0.053,4.2,48.5,4.0
+P-01,2,C1,72.0,100.0,0.28,5.4,32.0,5.6
+P-01,3,C2,88.0,100.0,0.12,5.8,44.0,5.2
+P-01,4,C3,94.0,100.0,0.06,6.4,26.5,6.5
